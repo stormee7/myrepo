@@ -1,2 +1,2 @@
 # myrepo
-testing my setup
+Hello Git
